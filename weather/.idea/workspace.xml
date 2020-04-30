@@ -2,34 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fae34240-4f4c-4827-8185-f0c7448738c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/main/templates/main/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../password_generator-project/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../password_generator-project/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../password_generator-project/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../password_generator-project/.idea/password_generator-project.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../password_generator-project/.idea/rSettings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../password_generator-project/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../password_generator-project/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../password_generator-project/generator/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../password_generator-project/generator/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../password_generator-project/generator/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../password_generator-project/generator/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../password_generator-project/generator/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../password_generator-project/generator/templates/generator/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../password_generator-project/generator/templates/generator/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../password_generator-project/generator/templates/generator/password.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../password_generator-project/generator/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../password_generator-project/generator/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../password_generator-project/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../password_generator-project/password_generator/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../password_generator-project/password_generator/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../password_generator-project/password_generator/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../password_generator-project/password_generator/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../password_generator-project/password_generator/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../personal_portfolio_project/blog/templates/blog/all_blogs.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../personal_portfolio_project/blog/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../personal_portfolio_project/portfolio/templates/portfolio/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +73,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588089591806</updated>
-      <workItem from="1588089594629" duration="1905000" />
+      <workItem from="1588089594629" duration="3107000" />
+      <workItem from="1588192341565" duration="47000" />
     </task>
     <servers />
   </component>
